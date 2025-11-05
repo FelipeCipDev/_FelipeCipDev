@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Felipe Cipriano!
+👋 Olá, eu me chamo Felipe Cipriano!
 
 💡 **Ciência de Dados & Desenvolvimento Back-End**  
 🎓 Cursando **Ciência de Dados para Negócios** na FATEC Sebrae e formado em **Desenvolvimento de Sistemas** pela ETEC.  
